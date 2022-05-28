@@ -20,7 +20,7 @@
 	top: 50%;
 	transform: translate(0, -50%);
 	font-size: 35px;
-	padding: 8px;
+	padding: 5px;
 	cursor: pointer;
 	color: black;
 	transition: 0.1s;
