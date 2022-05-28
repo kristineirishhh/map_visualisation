@@ -7,10 +7,10 @@
 
 .slider{
 	position: relative;
-	width: 100%;
+	width: 70%;
 }
 .myslide{
-	height: 655px;
+	height: 458.5px;
 	display: none;
 	overflow: hidden;
 }
